@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\obj\Debug\CapaAgenda.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\obj\Debug\CapaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\bin\Debug\CapaAgenda.dll
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\bin\Debug\CapaAgenda.pdb
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\bin\Debug\CapaEnlace.dll
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\bin\Debug\Capa_Datos.dll
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\bin\Debug\CapaEnlace.pdb
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\bin\Debug\Capa_Datos.pdb
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\obj\Debug\CapaAgenda.csproj.CopyComplete
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\obj\Debug\CapaAgenda.dll
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaAgenda\obj\Debug\CapaAgenda.pdb

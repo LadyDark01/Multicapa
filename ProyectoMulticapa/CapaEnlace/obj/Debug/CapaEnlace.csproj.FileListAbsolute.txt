@@ -1,0 +1,6 @@
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaEnlace\obj\Debug\CapaEnlace.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaEnlace\obj\Debug\CapaEnlace.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaEnlace\bin\Debug\CapaEnlace.dll
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaEnlace\bin\Debug\CapaEnlace.pdb
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaEnlace\obj\Debug\CapaEnlace.dll
+C:\Users\Carlos\source\repos\ProyectoMulticapa\CapaEnlace\obj\Debug\CapaEnlace.pdb
